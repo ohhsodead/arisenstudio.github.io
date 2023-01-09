@@ -27,13 +27,13 @@
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
-  margin: 0 60px 0 0;
+  margin: 259px 484px 0 0;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 2.4225rem;
   font-weight: 300;
-  margin: 0 auto 0 0;
+  margin: 0;
 }
 
 .u-section-1 .u-text-3 {
@@ -42,6 +42,36 @@
   line-height: 1.45;
   background-image: none;
   margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  font-size: 0.875rem;
+  margin: 21px auto 0 104px;
+  padding: 3px 20px 4px 19px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 0.875rem;
+  margin: -30px auto 0 0;
+  padding: 2px 16px 2px 15px;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 1.1429em;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 0.875rem;
+  font-weight: 300;
+  line-height: 1.45;
+  background-image: none;
+  margin: 21px 0 0;
+}
+
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -69,10 +99,6 @@
   .u-section-1 .u-container-layout-1 {
     padding-left: 25px;
     padding-right: 25px;
-  }
-
-  .u-section-1 .u-text-2 {
-    margin-right: 0;
   }
 }
 
